@@ -123,5 +123,11 @@ if __name__ == "__main__":
 
     # Testing new combination of the neural inpute
     print "Stage 3)  Testing new combination of the neural inpute [1,0,1,0]-> ?: "
-    hidden_state1_output, hidden_state2_output,output = neural_network.think(array([1, 0, 1, 0]))
+   print "Stage 3)  Testing new combination of the neural inpute [1,0,1,0]-> ?: "
+    hidden_state1_output, hidden_state2_output, output = neural_network.think(array([1, 0, 1, 0]))
+print "Printing Hiden Layer 1 output"
+print hidden_state1_output
+print "Printing Hiden Layer 2 output"
+print hidden_state2_output
+print "Printing optimized Final Output"
 print output
