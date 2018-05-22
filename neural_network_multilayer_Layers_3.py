@@ -81,9 +81,9 @@ class NeuralNetwork():
 
     # The neural network prints its weights
     def print_weights(self):
-        print "    Layer 1 (4 neurons, each with 3 inputs): "
+        print "    Layer 1 (4 neurons, each with 4 inputs): "
         print self.layer1.synaptic_weights
-        print "    Layer 2 (3 neurons, each with 3 inputs): "
+        print "    Layer 2 (4 neurons, each with 4 inputs): "
         print self.layer2.synaptic_weights
         print "    Layer 2 (1 neuron, with 4 inputs):"
         print self.layer3.synaptic_weights
