@@ -8,3 +8,5 @@ These are based on Sigmod function (https://en.wikipedia.org/wiki/Sigmoid_functi
 2.Two Layer Neural Network, With Slight modifications while adapted form  https://github.com/miloharper/multi-layer-neural-network/blob/master/LICENSE.md . File Name: neural_network_multilayer_Layers_2.py.
 
 3.Three Layer Neural Network, File Name:neural_network_multilayer_Layers_3.py
+
+Contributor : Gorla Praveen
