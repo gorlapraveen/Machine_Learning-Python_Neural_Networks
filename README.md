@@ -39,11 +39,16 @@ File Name:
 Notes: Machine Learning[original(size>20MB):1 | Compressed(size<10MB) :2] and Kalman filter[original(<2MB):3] notes have been added here as PDF format under
          Creative Commons Attribution 4.0 International License.
 
-File Name(s):
+File Name(s): 
 
-
+           
            1. praveen_machine_learning_notes_full_cc.pdf (original;size>20MB)
            2. praveen_machine_learning_notes_full_cc_compressed.pdf (compressed; size<10MB)
+
+           Pages 1 to 5 are not in good understandable format. 
+           Pages 6 to 43 are in good, understandable format with colors representations.
+
+File Name(s):
 
            3. praveen_kalman_filter_notes_cc.pdf (original; size<2MB)
 
