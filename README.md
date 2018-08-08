@@ -1,5 +1,5 @@
 # Machine_Learning-Python_Neural_Networks
-Neural Networks Implementation using Python.
+##Neural Networks Implementation using Python.
 
 These are based on Sigmod function (https://en.wikipedia.org/wiki/Sigmoid_function) and Backpropogation Algorithm (https://en.wikipedia.org/wiki/Backpropagation) In Machine Learning - Neural Networks
 
