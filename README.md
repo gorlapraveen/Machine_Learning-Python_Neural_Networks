@@ -5,16 +5,22 @@ These are based on Sigmod function (https://en.wikipedia.org/wiki/Sigmoid_functi
 
 
 ==============================================================================================
+
+
 1.Single Layer Neural Networks,
       
 
 File Name:
+
+
          neural_network_1.py .
 
 2.Two Layer Neural Network, With Slight modifications while adapted form  https://github.com/miloharper/multi-layer-neural-network/blob/master/LICENSE.md . 
 
 
 File Name:
+
+
           neural_network_multilayer_Layers_2.py.
 
 
@@ -23,9 +29,13 @@ File Name:
 
 
 File Name:
+
+
         neural_network_multilayer_Layers_3.py
 
 ===============================================================================================
+
+
 Notes: Machine Learning(1) and Kalman filter(2) notes have been added here as PDF format under
          Creative Commons Attribution 4.0 International License.
 
