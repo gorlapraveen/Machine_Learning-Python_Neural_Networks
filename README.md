@@ -46,7 +46,7 @@ File Name(s):
            2. praveen_machine_learning_notes_full_cc_compressed.pdf     (compressed; size<10MB)
 
            Pages 1 to 5 are not in good understandable format. 
-           Pages 6 to 43 are in good, understandable format with colors representations.
+           Pages 6 to 43 are in good understandable format, with colors representations.
 
 File Name(s):
 
